@@ -4,11 +4,15 @@ Scrap 1000 metadatas from web site dev.to
 * This repository is result as a project for scientific programming.
 * It is made for scrap metadata from web site dev.to.
 
-* packages used
+<br>
+
+**Packages used**
   * scrapy
   * json
 
-* how to use it:
+<br>
+
+**How to use it**
   * clone in vsc
   * install virtual environment with <code>python -m venv venv</code>
   * run environment with <code>venv/scripts/activate.ps1</code>
