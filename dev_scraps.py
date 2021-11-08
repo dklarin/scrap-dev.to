@@ -4,11 +4,8 @@ import json
 
 class DevtosSpider(scrapy.Spider):
 
-    url_list = []
-    page = 'https://dev.to/search/feed_content?per_page=100&page='
-    for i in range(0, 10):
-        url_list.append(page+str(i))
-
+    url_list = ['https://dev.to/search/feed_content?per_page=100&page=' +
+                str(i) for i in range(10)]
     name = "devto"
     start_urls = url_list
 
