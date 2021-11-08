@@ -9,8 +9,7 @@
 
 ### Packages used
 
-- scrapy
-- json
+- scrapy https://img.shields.io/pypi/v/Scrapy?style=for-the-badge
 
 <br>
 
