@@ -9,7 +9,7 @@
 
 ### Packages used
 
-- scrapy https://img.shields.io/pypi/v/Scrapy?style=for-the-badge
+- scrapy ![PyPI](https://img.shields.io/pypi/v/Scrapy?style=for-the-badge)
 
 <br>
 
