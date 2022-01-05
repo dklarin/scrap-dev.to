@@ -16,8 +16,8 @@
 
 ### How to use it
 
-- clone in vsc
-- install virtual environment with <code>python/py -m venv venv</code>
-- run environment with <code>venv/scripts/activate.ps1</code>
-- install packages from requirements.txt <code>pip install -r requirements.txt</code>
-- run spider with <code>scrapy runspider dev_scraps.py -o dev_scraps.csv</code>
+1. clone in vsc
+2. install virtual environment with <code>python/py -m venv venv</code>
+3. run environment with <code>venv/scripts/activate.ps1</code>
+4. install packages from requirements.txt <code>pip install -r requirements.txt</code>
+5. run spider with <code>scrapy runspider dev_scraps.py -o dev_scraps.csv</code>
